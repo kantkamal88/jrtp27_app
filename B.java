@@ -1,1 +1,3 @@
-class B{}
+class B{
+String str="Kamal";
+}
